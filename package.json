@@ -1,0 +1,22 @@
+{
+  "name": "circleciexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madkar85/CircleCITest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madkar85/CircleCITest/issues"
+  },
+  "homepage": "https://github.com/madkar85/CircleCITest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
